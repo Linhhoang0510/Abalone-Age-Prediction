@@ -7,3 +7,4 @@ The goal of this project is to create a predictive model that accurately estimat
 The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
 
 ## Model Workflows
+![Abalone workflow drawio](https://github.com/user-attachments/assets/9f90ecb5-4936-454a-aae5-c56429ef37cd)
